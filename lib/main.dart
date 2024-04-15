@@ -7,15 +7,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// Types of Widgets
-// 1. StatelessWidget
-// 2. StatefulWidget
-
-// State
-
-// 1. Material Design
-// 2. Cupertino Design
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
